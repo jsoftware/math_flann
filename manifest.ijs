@@ -7,7 +7,6 @@ http://www.cs.ubc.ca/research/flann/
 please see doc/README.txt for usage.
 )
 
-RELEASE=: 'j701'
 
 PLATFORMS=: 'linux'
 
