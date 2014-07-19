@@ -1,19 +1,19 @@
-CAPTION=: 'flann KNN hooks and tools' 
+CAPTION=: 'flann'
 VERSION=: '1.0.1'
 
 FILES=: 0 : 0
+manifest.ijs
 flann.ijs
 test/test_flann.ijs
 data/p53.csv
 doc/README.txt
 )
 
-PLATFORMS=: 0 : 0
-'linux'
-)
+PLATFORMS=: 'linux'
+
 
 DEPENDS=: 0 : 0
-dsv/csv
+tables/csv
 )
 
 RELEASE=: 'j701 j801 j802'
