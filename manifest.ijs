@@ -1,7 +1,7 @@
 CAPTION=: 'flann'
-VERSION=: '1.0.3'
+VERSION=: '1.0.4'
 
-RELEASE=: 'j701 j801 j802 j803'
+RELEASE=: 'j701 j801 j802 j803 j804'
 PLATFORMS=: 'linux'
 
 DEPENDS=: 0 : 0
